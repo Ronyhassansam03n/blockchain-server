@@ -1,0 +1,122 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+
+      "header" : "Solidity",
+   
+      "category_id": "01",
+      
+      "total_student": 230,
+
+      "duration" : 30,
+      
+      "title": "Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.",
+    
+
+      "thumbnail_url": "https://miro.medium.com/max/1005/1*ioCqEHEcYMSpeWxQx8JrTQ.png",
+
+      "image_url": "https://soliditylang.org/images/SolGray.png",
+
+       
+      "details": "solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state. Solidity is a curly-bracket language designed to target the Ethereum Virtual Machine (EVM). It is influenced by C++, Python and JavaScript. You can find more details about which languages Solidity has been inspired by in the language influences section.Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features.With Solidity you can create contracts for uses such as voting, crowdfunding, blind auctions, and multi-signature wallets. When deploying contracts, you should use the latest released version of Solidity."
+    },
+
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+
+      "header" : "Rust",
+   
+      "category_id": "02",
+      
+      "total_student": 508,
+
+      "duration" : 18,
+      
+      "title": " Rust is blazingly fast and memory-efficient: with no runtime or garbage collector, it can power performance-critical services, run on embedded devices, and easily integrate with other languages.",
+     
+      "thumbnail_url": "https://contentstatic.techgig.com/photo/90464147/8-frequently-asked-rust-programming-job-interview-questions.jpg?22247",
+
+      "image_url": "https://static.itavisen.no/wp-content/uploads/2021/07/Rust.png",
+
+      "details": "Rust rich type system and ownership model guarantee memory-safety and thread-safety — enabling you to eliminate many classes of bugs at compile-time.Rust has great documentation, a friendly compiler with useful error messages, and top-notch tooling — an integrated package manager and build tool, smart multi-editor support with auto-completion and type inspections, an auto-formatter, and more."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+
+      "header" : "Go Lang",
+     
+      "category_id": "03",
+      
+      "total_student": 400,
+
+      "duration" : 25,
+      
+      "title": "Build fast, reliable, and efficient software at scale",
+   
+      "thumbnail_url": "https://www.softwebsolutions.com/wp-content/uploads/2020/10/golang-Programing.jpg",
+
+      "image_url": "https://nextbridge.com/wp-content/uploads/2021/06/Go-Programming-Language-%E2%80%93-Making-a-Mark.jpg",
+
+      "details": "What is Golang used for? What is Golang Useful for? Golang is useful for carrying out programming for scalable servers and large software systems. The Golang programming language was built to fill in the gaps of C++ and Java that Google came across while working with its servers and distributed systems.It's not the most popular programming language in the world. There are a relatively smaller number of developers using it and there are some good reasons for that. Go is relatively new and immature. It's a bare-bones language lacking a lot of the syntactical sugar that other languages have ."
+    },
+   
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+
+      "header" : "Python",
+   
+      "category_id": "04",
+      
+      "total_student": 980,
+      "duration" : 40,
+      
+      "title": "Python is the fastest-growing major programming language in the world today, with 151% year-on-year growth.",
+    
+      "thumbnail_url": "https://i0.wp.com/ensedeciencia.com/wp-content/uploads/2022/03/Python-P.jpg?resize=800%2C451&ssl=1",
+     
+      
+      "image_url": "https://preview.redd.it/rxezjyf4ojx41.png?width=960&crop=smart&auto=webp&s=5ad7e70ac8aa78e2e8e8af9412c29882696b68ef",
+      
+      
+      "details": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed. Often, programmers fall in love with Python because of the increased productivity it provides. Since there is no compilation step, the edit-test-debug cycle is incredibly fast. Debugging Python programs is easy: a bug or bad input will never cause a segmentation fault. Instead, when the interpreter discovers an error, it raises an exception. When the program doesn't catch the exception, the interpreter prints a stack trace. A source level debugger allows inspection of local and global variables, evaluation of arbitrary expressions, setting breakpoints, stepping through the code a line at a time, and so on. The debugger is written in Python itself, testifying to Python's introspective power. On the other hand, often the quickest way to debug a program is to add a few print statements to the source: the fast edit-test-debug cycle makes this simple approach very effective."
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+
+      "header" : "Etherum Smart Contracts",
+  
+      "category_id": "05",
+      
+      "total_student": 880,
+      
+      "title": "What is Ethereum? Explained With Features and Applications",
+      
+      "thumbnail_url": "https://g.foolcdn.com/editorial/images/698810/ethereum-blockchain-cryptocurrency.jpg",
+      
+      "image_url": "https://www.omfif.org/wp-content/uploads/2022/10/Ether-merge-newweb.png",
+
+      "details": "The merge was a long-awaited upgrade to the Ethereum network, seeking to make it more scalable and energy efficient. Now that it is complete, Ethereum’s proof-of-work consensus mechanism has been replaced by a proof-of-stake one. PoS consensus uses significantly fewer resources than PoW, making it more sustainable, as well as providing several other benefits.  To combat scalability issues, the upgrade integrates the two previously separate chains: the execution layer and the consensus layer. The Ethereum mainnet (the PoW chain) and the beacon chain (the PoS chain) used to operate in parallel. The first part of the merge, the Bellatrix update for the beacon chain, completed on 6 September, ensured that validators are producing updated beacon chain blocks ahead of the merge. The second and final stage of the update, the execution layers Paris update, was completed early on 15 September. Although the merge has had a bumpy rollout, extensive testing on public sandboxes and bug bounties helped ensure a safe transition to proof-of-stake. Foremost among the questions consuming institutional users is how the merge will impact pricing and volatility. This is a major concern. Based on possible outcomes of the Ethereum 2.0 rollout, there could be crucial pricing implications for Ether, the networks native cryptocurrency, and the entire market. However, institutions looking to participate in the market now that Paris is implemented would be wise to prepare for other roadblocks. As was seen with the Luna crash and subsequent hard fork, significant events in the crypto space can introduce enormous challenges to trading activities, data operations, reporting and compliance.The impact on trading, for example, is not limited to price actions around Ether. As in 2016, when Ethereum and Ethereum Classic split, the market could potentially see the launch of a new asset. If a segment of the market supports a new PoW asset, trading exchanges will scramble to determine whether they should list it. Some have already announced their support for such an asset; others will perform due diligence as it launches."
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+
+      "header" : "Java Script",
+
+      "category_id": "06",
+      
+      "total_student": 750,
+      
+      "title": "Tucker Carlson: Putin Winning in Ukraine, Biden Hurting West",
+      
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+
+      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+
+      "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+    }
+
+  ]
