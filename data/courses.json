@@ -92,6 +92,7 @@
       
       "total_student": 880,
       
+      "duration" : 30,
       "title": "What is Ethereum? Explained With Features and Applications",
       
       "thumbnail_url": "https://g.foolcdn.com/editorial/images/698810/ethereum-blockchain-cryptocurrency.jpg",
@@ -110,13 +111,13 @@
       
       "total_student": 750,
       
-      "title": "Tucker Carlson: Putin Winning in Ukraine, Biden Hurting West",
+      "title": "Learn JavaScript Basics by Building a Counter Application",
       
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "thumbnail_url": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
 
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+      "image_url": "https://www.freecodecamp.org/news/content/images/size/w2000/2022/08/pexels-antonio-batinic--4164418--1-.jpg",
 
-      "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+      "details": "JavaScript and Java are two different computer languages, both developed in 1995. Java is an object-oriented programming language, which means it can run independently in a machine environment. It is a reliable, versatile language used for Android apps, enterprise systems that move large amounts of data (especially in the finance industry), and embedded functions for.What makes JavaScript great is that it's not necessary to know how to write it to use it in your web code. You can find plenty of prewritten JavaScripts for free online. To use such scripts, all you need to know is how to paste the supplied code into the right places on your web page.Despite the easy access to prewritten scripts, many coders prefer knowing how to do it themselves. Because it is an interpreted language, no special program is required to create usable code. A plain text editor like Notepad for Windows is all you need to write JavaScript. That said, Markdown Editor might make the process easier, particularly as the lines of code add up.HTML and JavaScript are complementary languages. HTML is a markup language designed for defining static webpage content. It is what gives a webpage its basic structure. JavaScript is a programming language designed for performing dynamic tasks within that page, like animation or a search box. JavaScript is designed to run within the HTML structure of a website and is often used multiple times. If you're writing code, your JavaScript will be more easily accessible if placed them in separate files (using a .JS extension helps identify them). You then link the JavaScript to your HTML by inserting a tag. That same script can then be added to several pages just by adding the appropriate tag into each of the pages to set up the link."
     }
 
   ]
