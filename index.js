@@ -10,7 +10,7 @@ const courses = require('./data/courses.json')
 
 
 app.get('/', (req, res) =>{
-    res.send('all is done')
+    res.send(' server on live ')
 });
 
 app.get('/course-categories', (req, res) => {
