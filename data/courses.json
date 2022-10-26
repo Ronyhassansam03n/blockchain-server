@@ -18,7 +18,7 @@
       "image_url": "https://soliditylang.org/images/SolGray.png",
 
        
-      "details": "solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state. Solidity is a curly-bracket language designed to target the Ethereum Virtual Machine (EVM). It is influenced by C++, Python and JavaScript. You can find more details about which languages Solidity has been inspired by in the language influences section.Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features.With Solidity you can create contracts for uses such as voting, crowdfunding, blind auctions, and multi-signature wallets. When deploying contracts, you should use the latest released version of Solidity."
+      "details": "solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state. Solidity is a curly-bracket language designed to target the Ethereum Virtual Machine (EVM). It is influenced by C++, Python and JavaScript. You can find more details about which languages Solidity has been inspired by in the language influences section.Solidity is statically typed,supports inheritance, libraries and complex user-defined types among other features.With Solidity you can create contracts for uses such as voting, crowdfunding, blind auctions, and multi-signature wallets. When deploying contracts, you should use the latest released version of Solidity."
     },
 
     {
@@ -32,7 +32,7 @@
 
       "duration" : 18,
       
-      "title": " Rust is blazingly fast and memory-efficient: with no runtime or garbage collector, it can power performance-critical services, run on embedded devices, and easily integrate with other languages.",
+      "title": " Rust is blazingly fast and memory-efficient: with no runtime or garbage collector, it can power performance-critical services.",
      
       "thumbnail_url": "https://contentstatic.techgig.com/photo/90464147/8-frequently-asked-rust-programming-job-interview-questions.jpg?22247",
 
